@@ -37,7 +37,7 @@ Create .env file with credentials:
 CopyVALID_USERNAME="your_username"
 VALID_PASSWORD="your_password"
 INVALID_USERNAME="wrong_username"
-INVALID_PASSWORD="wrong_password"
+git
 Running Tests
 Run all tests:
 bashCopypytest
